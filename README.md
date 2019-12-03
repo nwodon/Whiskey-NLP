@@ -14,6 +14,7 @@ The dataset used is linked below:
 https://www.kaggle.com/koki25ando/22000-scotch-whisky-reviews
 
 Articles Consulted:
+
 https://www.dmarge.com/2019/02/whiskey-brands.html
 
 https://www.mensjournal.com/food-drink/the-50-best-whiskeys-in-the-world-w211382/monkey-shoulder-blended-malt-scotch-w211406/
