@@ -6,8 +6,6 @@
 * [Technologies](#technologies)
 * [Packages](#packages)
 
-
-
 # Overview
 
 This repository was created as part of a long term project for a Brown University Graduate Class: Data 1030 taugt by Andras Zsom.
@@ -33,6 +31,20 @@ https://www.mensjournal.com/food-drink/the-50-best-whiskeys-in-the-world-w211382
 https://www.gq.com/story/why-your-whiskeys-age-matters
 
 # Repository Organization:
+
+├── data/ 
+├── figures/ 
+├── results/  
+├── reports/ 
+├── src/ 
+├── LICENSE 
+└── README.md 
+
+Raw and Preprocessed data files are in /data,
+All generated figures are in /figures
+Model Results (predictions, saved models, etc) are in \results, 
+Report and Midterm Proposal (pdf versions) are in \reports,
+Source codes (ipython notebooks or python files) are in \src.  
 
 # Technologies 
 
