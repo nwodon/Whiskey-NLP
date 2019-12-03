@@ -10,10 +10,22 @@ The goal of this repository is to explore the relationship between whisky price 
 
 Note that the models that predicted whisky price did not perform well due to the highly skewed nature of the data and so log price was used instead as the target. While many of the features extracted provided valuable insight and helped improve the R2 score of the model, they were generated and/or categorized by referencing whisky articles (see links below). Next steps to improve this model would include more thoroughly exploring the generated features instead of relying on sources on whether or not to add a given whisky brand or implement an whisky age cutoff.
 
+# Packages Used in Analysis: 
+
+nltk 3.4.5
+textcleaner 0.4.26
+scipy 1.3.1
+scikit-learn 0.21.3
+pandas 0.25.0
+numpy 1.17.1
+matplotlib 3.1.1
+
+
+# Dataset Link:
 The dataset used is linked below:
 https://www.kaggle.com/koki25ando/22000-scotch-whisky-reviews
 
-Articles Consulted:
+# Articles Consulted:
 
 https://www.dmarge.com/2019/02/whiskey-brands.html
 
