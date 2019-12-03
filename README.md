@@ -1,10 +1,10 @@
 ## Table of contents
 * [Overview](#overview)
-* [Dataset Link](#dataset link)
-* [Articles Consulted](#articles consulted)
-* [Repository Organization](#repository organization)
+* [Dataset Link](#datasetlink)
+* [Articles Consulted](#articlesconsulted)
+* [Repository Organization](#repositoryorganization)
 * [Technologies](#technologies)
-* [Packages Used in Analysis](#packages used in analysis)
+* [Packages](#packages)
 
 
 
