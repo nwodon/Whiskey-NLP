@@ -33,18 +33,28 @@ https://www.gq.com/story/why-your-whiskeys-age-matters
 # Repository Organization:
 
 ├── data/ 
+
 ├── figures/ 
+
 ├── results/  
+
 ├── reports/ 
+
 ├── src/ 
+
 ├── LICENSE 
+
 └── README.md 
 
-Raw and Preprocessed data files are in /data,
-All generated figures are in /figures
-Model Results (predictions, saved models, etc) are in \results, 
-Report and Midterm Proposal (pdf versions) are in \reports,
-Source codes (ipython notebooks or python files) are in \src.  
+Raw and Preprocessed data files are in /Data
+
+All generated figures are in /Figures
+
+Model Results (predictions, saved models, etc) are in /Results
+
+Report and Midterm Proposal (pdf versions) are in /Reports
+
+Source codes (ipython notebooks or python files) are in /Src 
 
 # Technologies 
 
