@@ -32,18 +32,18 @@ https://www.gq.com/story/why-your-whiskeys-age-matters
 
 # Repository Organization:
 
-├── data/ 
-
-├── figures/ 
-
-├── results/  
-
-├── reports/ 
-
-├── src/ 
-
+├── Data/ 
+|
+├── Figures/ 
+|
+├── Results/  
+|
+├── Reports/ 
+|
+├── Src/ 
+|
 ├── LICENSE 
-
+|
 └── README.md 
 
 Raw and Preprocessed data files are in /Data
