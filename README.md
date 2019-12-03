@@ -1,4 +1,4 @@
-# Whiskey-NLP
+# Overview
 
 This repository was created as part of a long term project for a Brown University Graduate Class: Data 1030 taugt by Andras Zsom.
 
@@ -12,14 +12,37 @@ Note that the models that predicted whisky price did not perform well due to the
 
 # Packages Used in Analysis: 
 
-nltk 3.4.5
-textcleaner 0.4.26
-scipy 1.3.1
-scikit-learn 0.21.3
-pandas 0.25.0
-numpy 1.17.1
-matplotlib 3.1.1
+nltk==3.4.5
 
+pandas==0.25.0
+
+perfplot==0.6.8
+
+pickleshare==0.7.5
+
+plotly==4.1.1
+
+plotly-express==0.4.1
+
+scikit-image==0.15.0
+
+scikit-learn==0.21.3
+
+scipy==1.3.1
+
+seaborn==0.9.0
+
+statsmodels==0.10.1
+
+sympy==1.4
+
+textcleaner==0.4.26
+
+numpy==1.17.1
+
+matplotlib==3.1.1
+
+regex==2019.11.1
 
 # Dataset Link:
 
@@ -34,6 +57,7 @@ https://www.mensjournal.com/food-drink/the-50-best-whiskeys-in-the-world-w211382
 https://www.gq.com/story/why-your-whiskeys-age-matters
 
 # Repository Organization:
+
 ├── data/ 
 ├── figures/ 
 ├── results/  
