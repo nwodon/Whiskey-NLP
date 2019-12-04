@@ -1,4 +1,4 @@
-## Table of contents
+# Table of contents
 * [Overview](#overview)
 * [Dataset Link](#datasetlink)
 * [Articles Consulted](#articlesconsulted)
@@ -12,7 +12,7 @@ This repository was created as part of a long term project for a Brown Universit
 
 Whiskey is a popular beverage consumed in the United States, with a number of different styles and types. Due to the large diversification of the whiskey market, the beverage can be sold at many price points.
 
-The original dataset of 2.247 observations contained the following features: ID, name, category, review score, price, currency, and description. Note that the currency (all prices were in US dollars) and ID feature did not provide any relevant information. The name and description were text features, category was a categorical feature with 5 different whisky types, and review score and price were continuous features.
+The original dataset of 2,247 observations contained the following features: ID, name, category, review score, price, currency, and description. Note that the currency (all prices were in US dollars) and ID feature did not provide any relevant information. The name and description were text features, category was a categorical feature with 5 different whisky types, and review score and price were continuous features.
 
 The goal of this repository is to explore the relationship between whisky price and other whisky characteristics such as whisky age while using natural language processing.  More precisely, the objective is to develop a predictive whisky price model using different ML techniques. Given that the dataset is feature poor, many of the whisky features were generated through the use natural language processing on the whisky name and description. 
 
