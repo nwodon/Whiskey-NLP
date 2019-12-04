@@ -46,15 +46,15 @@ https://www.gq.com/story/why-your-whiskeys-age-matters
 
 └── README.md 
 
-Raw and Preprocessed data files are in /Data
+Raw and Preprocessed data files are in Data/
 
-All generated figures are in /Figures
+All generated figures are in Figures/
 
-Model Results (predictions, saved models, etc) are in /Results
+Model Results (predictions, saved models, etc) are in Results/
 
-Report and Midterm Proposal (pdf versions) are in /Reports
+Report and Midterm Proposal (pdf versions) are in Reports/
 
-Source codes (ipython notebooks or python files) are in /Src 
+Source codes (ipython notebooks or python files) are in Src/ 
 
 # Technologies 
 
