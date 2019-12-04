@@ -8,7 +8,7 @@
 
 # Overview
 
-This repository was created as part of a long term project for a Brown University Graduate Class: Data 1030 taugt by Andras Zsom.
+This repository was created as part of a long-term project for a Brown University Graduate Class: Data 1030 taught by Andras Zsom.
 
 Whiskey is a popular beverage consumed in the United States, with a number of different styles and types. Due to the large diversification of the whiskey market, the beverage can be sold at many price points.
 
@@ -16,7 +16,8 @@ The original dataset of 2,247 observations contained the following features: ID,
 
 The goal of this repository is to explore the relationship between whisky price and other whisky characteristics such as whisky age while using natural language processing.  More precisely, the objective is to develop a predictive whisky price model using different ML techniques. Given that the dataset is feature poor, many of the whisky features were generated through the use natural language processing on the whisky name and description. 
 
-Note that the models that predicted whisky price did not perform well due to the highly skewed nature of the data and so log price was used instead as the target. While many of the features extracted provided valuable insight and helped improve the R2 score of the model, they were generated and/or categorized by referencing whisky articles (see links below). Next steps to improve this model would include more thoroughly exploring the generated features instead of relying on sources on whether or not to add a given whisky brand or implement an whisky age cutoff.
+Note that the models that predicted whisky price did not perform well due to the highly skewed nature of the data and so log price was used instead as the target. While many of the features extracted provided valuable insight and helped improve the R2 score of the model, they were generated and/or categorized by referencing whisky articles (see links below). Next steps to improve this model would include more thoroughly exploring the generated features instead of relying on sources on whether or not to add a given whisky brand or implement a whisky age cutoff.
+
 
 # Dataset Link:
 
